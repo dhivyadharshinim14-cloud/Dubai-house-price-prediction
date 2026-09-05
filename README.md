@@ -135,7 +135,12 @@ Example inputs include property characteristics such as:
 - Other available property features
 
 The application loads the trained machine learning model and generates a predicted property price.
-APPLICATION SCREENSHOTS
+
+### Application Screenshots
+
+![Dubai House Price Prediction App - Project 1](images/project1.png)
+
+![Dubai House Price Prediction App - Project 2](images/project2.png)
 ---
 
 🚀 How to Run the Project
