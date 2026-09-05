@@ -135,7 +135,7 @@ Example inputs include property characteristics such as:
 - Other available property features
 
 The application loads the trained machine learning model and generates a predicted property price.
-
+APPLICATION SCREENSHOTS
 ---
 
 🚀 How to Run the Project
